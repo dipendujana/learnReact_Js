@@ -1,8 +1,13 @@
 import Chai from "./chai";
+import Dipendu from "./Dipendu";
 
 function App() {
   return (
-      <Chai/>
+    <>
+     <Chai/>
+     <Dipendu/>
+    </>
+     
   );
 }
 
