@@ -3,11 +3,11 @@ import './App.css'
 import Card from './components/card'
 
 function App() {
-  const [count, setCount] = useState(0)
-  let myObj = {
-    username: "Dipendu",
-    age: 21
-  }
+  // const [count, setCount] = useState(0)
+  // let myObj = {
+  //   username: "Dipendu",
+  //   age: 21
+  // }
 
   return (
     <>
